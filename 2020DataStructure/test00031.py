@@ -1,0 +1,5 @@
+arr = list(map(int, input().split()))
+print(arr)
+arr = list(set(arr))
+arr.sort(reverse=True)
+print(arr)

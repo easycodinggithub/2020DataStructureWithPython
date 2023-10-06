@@ -21,4 +21,5 @@ graph = [
 
 visited = [0] * 9
 dfs(graph, 1, visited) # 1번 노드부터 출발
+# test
 
